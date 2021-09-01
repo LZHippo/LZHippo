@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @LZHippo. This is for $LZHIPPO Repo
+- 👋 Hi, I’m @LZHippo.
 
